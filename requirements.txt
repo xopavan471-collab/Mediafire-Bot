@@ -1,3 +1,7 @@
-pyTelegramBotAPI
-cloudscraper
+pyrogram
+tgcrypto
+yt-dlp
 requests
+flask
+yt-dlp
+pytube
